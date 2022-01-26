@@ -1,0 +1,19 @@
+name: OMSBedwars
+author: Luidenka
+description: OMS Bedwars Plugin
+version: 0.1
+api-version: 1.17
+main: com.luidenka.bedwars.Bedwars
+commands:
+  test:
+    description: Just a test command
+    usage: /<command>
+    aliases: []
+  nick:
+    description: Change your display name.
+    usage: /<command> [name]
+    aliases: []
+  nickreset:
+    description: Reset your display name.
+    usage: /<command>
+    aliases: []

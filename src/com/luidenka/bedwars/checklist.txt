@@ -1,0 +1,10 @@
+OMS Bed Wars Plugin Checklist
+- Shop
+- Events
+ - Waiting for start
+ - When bed get destroy
+ - Kills and Finals
+- Scoreboard
+ - Lobby
+ - Waiting
+ - In Game
